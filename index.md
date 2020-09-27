@@ -11,7 +11,7 @@
       <p><b>电话：13373342746</b></p>
     </td>
     <td width="25%">
-      <img src="zjz.jpg" width="100%">
+      <img src="/zjz.jpg" width="100%">
     </td>
   </tr>
 </table>
